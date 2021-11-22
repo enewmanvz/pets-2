@@ -1,0 +1,24 @@
+{
+  "name": "pets-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:report": "jest --coverage=true"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enewmanvz/pets-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/enewmanvz/pets-2/issues"
+  },
+  "homepage": "https://github.com/enewmanvz/pets-2#readme",
+  "dependencies": {
+    "jest": "^27.3.1"
+  }
+}
